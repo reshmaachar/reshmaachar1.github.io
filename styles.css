@@ -1,0 +1,23 @@
+body 
+{
+    background-color: lightgreen;
+}
+h1
+{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+}
+.button{
+    color: white;
+    background-color: orange;
+    border: 2px solid orange;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+}
